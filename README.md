@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data Science Projects with source code
 
 1.[Chatbot](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK)<br>
 2.[Detecting Forest Fire](https://github.com/Skar0/fire-detection) <br>
