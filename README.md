@@ -7,3 +7,5 @@
 5.[Sentimental Analysis](https://github.com/yashspr/sentiment_analysis_ml_part)<br>
 6.[Gender Detection and Age Prediction](https://github.com/smahesh29/Gender-and-Age-Detection)<br>
 7.[Driver Drowsiness Detection](https://github.com/SuperThinking/driver-drowsiness-detection)<br>
+8.[Credit Card Fraud Detection ](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras)<br>
+9.[Traffic Sign Detection](https://github.com/hoanglehaithanh/Traffic-Sign-Detection)<br>
